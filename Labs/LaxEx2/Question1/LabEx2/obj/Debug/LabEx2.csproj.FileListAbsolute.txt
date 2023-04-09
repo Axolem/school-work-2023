@@ -1,0 +1,8 @@
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\LabEx2\LabEx2\bin\Debug\LabEx2.exe.config
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\LabEx2\LabEx2\bin\Debug\LabEx2.exe
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\LabEx2\LabEx2\bin\Debug\LabEx2.pdb
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\LabEx2\LabEx2\obj\Debug\LabEx2.csproj.AssemblyReference.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\LabEx2\LabEx2\obj\Debug\LabEx2.csproj.SuggestedBindingRedirects.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\LabEx2\LabEx2\obj\Debug\LabEx2.csproj.CoreCompileInputs.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\LabEx2\LabEx2\obj\Debug\LabEx2.exe
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\LabEx2\LabEx2\obj\Debug\LabEx2.pdb

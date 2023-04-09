@@ -1,0 +1,6 @@
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\DataLayer\obj\Debug\DataLayer.pdb

@@ -1,0 +1,16 @@
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\bin\Debug\TUT3.exe.config
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\bin\Debug\TUT3.exe
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\bin\Debug\TUT3.pdb
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\bin\Debug\BusinessLayer.dll
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\bin\Debug\DataLayer.dll
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\bin\Debug\BusinessLayer.pdb
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\bin\Debug\DataLayer.pdb
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\obj\Debug\TUT3.csproj.AssemblyReference.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\obj\Debug\TUT3.csproj.SuggestedBindingRedirects.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\obj\Debug\TUT3.Form1.resources
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\obj\Debug\TUT3.Properties.Resources.resources
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\obj\Debug\TUT3.csproj.GenerateResource.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\obj\Debug\TUT3.csproj.CoreCompileInputs.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\obj\Debug\TUT3.csproj.CopyComplete
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\obj\Debug\TUT3.exe
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT3\TUT3\TUT3\obj\Debug\TUT3.pdb

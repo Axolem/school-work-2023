@@ -1,0 +1,14 @@
+CREATE DATABASE users
+
+USE users
+
+
+CREATE TABLE `users`.`user_details` (
+	`id` INT NOT NULL AUTO_INCREMENT , 
+	`idNumber` VARCHAR(13) NOT NULL , 
+	`name` VARCHAR(20) NOT NULL , 
+	`surname` VARCHAR(20) NOT NULL , 
+	`email` VARCHAR(50) NOT NULL , 
+	`age` INT NOT NULL , 
+	PRIMARY KEY (`id`)
+) ENGINE = InnoDB;

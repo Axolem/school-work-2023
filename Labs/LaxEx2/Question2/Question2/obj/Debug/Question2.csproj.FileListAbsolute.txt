@@ -1,0 +1,11 @@
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\Question2\Question2\obj\Debug\Question2.csproj.AssemblyReference.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\Question2\Question2\obj\Debug\Question2.csproj.SuggestedBindingRedirects.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\Question2\Question2\obj\Debug\Question2.Form1.resources
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\Question2\Question2\obj\Debug\Question2.Properties.Resources.resources
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\Question2\Question2\obj\Debug\Question2.csproj.GenerateResource.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\Question2\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\Question2\Question2\bin\Debug\Question2.exe
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\Question2\Question2\bin\Debug\Question2.pdb
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\Question2\Question2\obj\Debug\Question2.exe
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx2\Question2\Question2\obj\Debug\Question2.pdb

@@ -1,0 +1,8 @@
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT1\TUT1_Question3\TUT1_Question3\bin\Debug\TUT1_Question3.exe.config
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT1\TUT1_Question3\TUT1_Question3\bin\Debug\TUT1_Question3.exe
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT1\TUT1_Question3\TUT1_Question3\bin\Debug\TUT1_Question3.pdb
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT1\TUT1_Question3\TUT1_Question3\obj\Debug\TUT1_Question3.csproj.AssemblyReference.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT1\TUT1_Question3\TUT1_Question3\obj\Debug\TUT1_Question3.csproj.SuggestedBindingRedirects.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT1\TUT1_Question3\TUT1_Question3\obj\Debug\TUT1_Question3.csproj.CoreCompileInputs.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT1\TUT1_Question3\TUT1_Question3\obj\Debug\TUT1_Question3.exe
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Tutorials\TUT1\TUT1_Question3\TUT1_Question3\obj\Debug\TUT1_Question3.pdb
