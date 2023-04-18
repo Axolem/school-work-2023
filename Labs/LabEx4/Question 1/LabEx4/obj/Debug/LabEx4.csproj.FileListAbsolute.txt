@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\LabEx4\bin\Debug\LabEx4.exe.config
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\LabEx4\bin\Debug\LabEx4.exe
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\LabEx4\bin\Debug\LabEx4.pdb
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\LabEx4\obj\Debug\LabEx4.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\LabEx4\obj\Debug\LabEx4.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\LabEx4\obj\Debug\LabEx4.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\LabEx4\obj\Debug\LabEx4.exe
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\LabEx4\obj\Debug\LabEx4.pdb
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\Question 1\LabEx4\bin\Debug\LabEx4.exe.config
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\Question 1\LabEx4\bin\Debug\LabEx4.exe
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\Question 1\LabEx4\bin\Debug\LabEx4.pdb
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\Question 1\LabEx4\obj\Debug\LabEx4.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\Question 1\LabEx4\obj\Debug\LabEx4.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\Question 1\LabEx4\obj\Debug\LabEx4.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\Question 1\LabEx4\obj\Debug\LabEx4.exe
+C:\Users\HP\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Labs\LabEx4\LabEx4\Question 1\LabEx4\obj\Debug\LabEx4.pdb
