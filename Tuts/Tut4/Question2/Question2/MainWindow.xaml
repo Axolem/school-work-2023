@@ -1,0 +1,27 @@
+﻿<Window x:Class="Question2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Question2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Name:" HorizontalAlignment="Left" Margin="51,92,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TXTname" HorizontalAlignment="Left" Margin="130,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Height="25"/>
+        <Label Content="Surname:" HorizontalAlignment="Left" Margin="51,138,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TXTsurname" HorizontalAlignment="Left" Margin="130,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Height="25"/>
+        <Label Content="Gender:" HorizontalAlignment="Left" Margin="51,191,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TXTgender" HorizontalAlignment="Left" Margin="130,192,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Height="25"/>
+        <Label Content="Email:" HorizontalAlignment="Left" Margin="51,238,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TXTemail" HorizontalAlignment="Left" Margin="130,239,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Height="25"/>
+        <Label Content="ID:" HorizontalAlignment="Left" Margin="221,281,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TXTid" HorizontalAlignment="Left" Margin="300,282,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Height="25"/>
+        <Button x:Name="BTNinsert" Content="Insert" HorizontalAlignment="Left" Margin="114,329,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.404,-1.251" Height="28" Width="72" Click="BTNinsert_Click"/>
+        <Button x:Name="BTNupdate" Content="Update" HorizontalAlignment="Left" Margin="253,329,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.404,-1.251" Height="28" Width="72" Click="BTNupdate_Click"/>
+        <Button x:Name="BTNdelete" Content="Delete" HorizontalAlignment="Left" Margin="383,329,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.404,-1.251" Height="28" Width="72" Click="BTNdelete_Click"/>
+        <Button x:Name="BTNclear" Content="Clear" HorizontalAlignment="Left" Margin="520,329,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.404,-1.251" Height="28" Width="72" Click="BTNclear_Click"/>
+        <DataGrid x:Name="GRDdisplay"  Height="NaN" Margin="300,93,137,170" Width="NaN"/>
+
+    </Grid>
+</Window>
