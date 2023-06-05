@@ -1,0 +1,11 @@
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Test\SemTest1\SemTest1\bin\Debug\SemTest1.exe.config
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Test\SemTest1\SemTest1\bin\Debug\SemTest1.exe
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Test\SemTest1\SemTest1\bin\Debug\SemTest1.pdb
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Test\SemTest1\SemTest1\obj\Debug\SemTest1.csproj.AssemblyReference.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Test\SemTest1\SemTest1\obj\Debug\SemTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Test\SemTest1\SemTest1\obj\Debug\SemTest1.Form1.resources
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Test\SemTest1\SemTest1\obj\Debug\SemTest1.Properties.Resources.resources
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Test\SemTest1\SemTest1\obj\Debug\SemTest1.csproj.GenerateResource.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Test\SemTest1\SemTest1\obj\Debug\SemTest1.csproj.CoreCompileInputs.cache
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Test\SemTest1\SemTest1\obj\Debug\SemTest1.exe
+C:\Users\axole\OneDrive - University of Johannesburg\UJ Classes\Third Year\Semester 1\DSW03A1 - Development Software 3A\Test\SemTest1\SemTest1\obj\Debug\SemTest1.pdb

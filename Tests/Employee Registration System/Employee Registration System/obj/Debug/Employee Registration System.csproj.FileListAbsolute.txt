@@ -1,0 +1,19 @@
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\bin\Debug\Employee Registration System.exe.config
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\bin\Debug\Employee Registration System.exe
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\bin\Debug\Employee Registration System.pdb
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\bin\Debug\BusinessLogicLayer.dll
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\bin\Debug\DataLayer.dll
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\bin\Debug\BusinessLogicLayer.pdb
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\bin\Debug\DataLayer.pdb
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.csprojAssemblyReference.cache
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\obj\Debug\Employee_Registration_System.Form1.resources
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\obj\Debug\Employee_Registration_System.Properties.Resources.resources
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.csproj.GenerateResource.cache
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.csproj.CoreCompileInputs.cache
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.csproj.CopyComplete
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.exe
+T:\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.pdb
+C:\Users\axole\Downloads\220023913_Maranjana_Final\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.csproj.AssemblyReference.cache
+C:\Users\axole\Downloads\220023913_Maranjana_Final\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.csproj.SuggestedBindingRedirects.cache
+C:\Users\axole\Downloads\220023913_Maranjana_Final\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.exe
+C:\Users\axole\Downloads\220023913_Maranjana_Final\220023913_Maranjana_Final\Employee Registration System\Employee Registration System\obj\Debug\Employee Registration System.pdb

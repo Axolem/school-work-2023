@@ -1,0 +1,9 @@
+T:\220023913_Maranjana_Final\Employee Registration System\BusinessLogicLayer\bin\Release\BusinessLogicLayer.dll
+T:\220023913_Maranjana_Final\Employee Registration System\BusinessLogicLayer\bin\Release\BusinessLogicLayer.pdb
+T:\220023913_Maranjana_Final\Employee Registration System\BusinessLogicLayer\bin\Release\DataLayer.dll
+T:\220023913_Maranjana_Final\Employee Registration System\BusinessLogicLayer\bin\Release\DataLayer.pdb
+T:\220023913_Maranjana_Final\Employee Registration System\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csprojAssemblyReference.cache
+T:\220023913_Maranjana_Final\Employee Registration System\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+T:\220023913_Maranjana_Final\Employee Registration System\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csproj.CopyComplete
+T:\220023913_Maranjana_Final\Employee Registration System\BusinessLogicLayer\obj\Release\BusinessLogicLayer.dll
+T:\220023913_Maranjana_Final\Employee Registration System\BusinessLogicLayer\obj\Release\BusinessLogicLayer.pdb

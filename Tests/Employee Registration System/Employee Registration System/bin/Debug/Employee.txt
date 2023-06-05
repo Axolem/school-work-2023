@@ -1,0 +1,3 @@
+smhlanga@coders.co.za,(012) 345-6789,True
+testeasy@coders.co.za,(068) 105-6963,True
+amaranjana@coders.co.za,(068) 172-1606,True

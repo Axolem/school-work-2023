@@ -1,0 +1,7 @@
+T:\220023913_Maranjana_ClassTest\TuitionCalculator\TuitionCalculator\bin\Debug\TuitionCalculator.exe.config
+T:\220023913_Maranjana_ClassTest\TuitionCalculator\TuitionCalculator\bin\Debug\TuitionCalculator.exe
+T:\220023913_Maranjana_ClassTest\TuitionCalculator\TuitionCalculator\bin\Debug\TuitionCalculator.pdb
+T:\220023913_Maranjana_ClassTest\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.csprojAssemblyReference.cache
+T:\220023913_Maranjana_ClassTest\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.csproj.CoreCompileInputs.cache
+T:\220023913_Maranjana_ClassTest\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.exe
+T:\220023913_Maranjana_ClassTest\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.pdb
